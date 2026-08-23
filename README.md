@@ -1,8 +1,10 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://gh.crafter.run/adwait-bhavthankar?theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://gh.crafter.run/adwait-bhavthankar?theme=light" />
-  <img alt="adwait-bhavthankar's GitHub profile card" src="https://gh.crafter.run/adwait-bhavthankar?theme=dark" width="100%" />
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://gh.crafter.run/adwait-bhavthankar?theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://gh.crafter.run/adwait-bhavthankar?theme=light" />
+    <img alt="adwait-bhavthankar's GitHub profile card" src="https://gh.crafter.run/adwait-bhavthankar?theme=dark" width="85%" />
+  </picture>
+</p>
 
 <br/>
 
