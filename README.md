@@ -1,93 +1,150 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://gh.crafter.run/adwait-bhavthankar?theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://gh.crafter.run/adwait-bhavthankar?theme=light" />
-  <img alt="adwait-bhavthankar's GitHub profile card" src="https://gh.crafter.run/adwait-bhavthankar?theme=dark" width="100%" />
-</picture>
+<div align="center">
 
-<br/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,60:003b00,100:00ff41&height=220&section=header&text=ADWAIT%20BHAVTHANKAR&fontSize=44&fontColor=00ff41&animation=fadeIn&fontAlignY=58&desc=root%40matrix%3A%20%24%20.%2Fengineer.sh%20--mode%3Dfull-stack%2Bai&descSize=15&descColor=39d353&descAlignY=78)
 
-## 👋 Hey, I'm Adwait Bhavthankar
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=1200&color=00FF41&center=true&vCenter=true&width=680&lines=Wake+up%2C+Adwait...;The+Matrix+has+you.;Follow+the+white+rabbit.;Full-Stack+%26+AI%2FML+Engineer.;Building+systems+that+think.;Knock%2C+knock.)](https://git.io/typing-svg)
 
-> Full-Stack & AI/ML Engineer · Building intelligent, scalable systems that bridge code and cognition.
+</div>
 
-I'm a software engineer passionate about creating end-to-end solutions — from crafting polished frontends to architecting resilient backends and wiring in machine learning where it actually matters. I enjoy turning complex problems into clean, maintainable code.
+<br>
 
----
+```bash
+$ cat /proc/adwait/identity
 
-## 🛠️ Tech Stack
-
-### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-### Backend & APIs
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-
-### AI / ML
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-
-### Databases & Infrastructure
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+  ╔══════════════════════════════════════════════════════════╗
+  ║  NAME     ──  Adwait Bhavthankar                        ║
+  ║  ROLE     ──  Full-Stack & AI/ML Engineer               ║
+  ║  LOCATION ──  India                                     ║
+  ║  STACK    ──  TypeScript · Python · Java · React · AI   ║
+  ║  MISSION  ──  Building intelligent systems from scratch ║
+  ║  STATUS   ──  [██████████████████░░]  Compiling...      ║
+  ╚══════════════════════════════════════════════════════════╝
+```
 
 ---
 
-## 🚀 Featured Projects
+## `> ls ./tech-stack --all`
 
-| Project | Description | Stack |
+```
+Loading modules...  [00ff41] ████████████████████ 100%
+```
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**`// Languages`**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-00ff41?style=flat-square&logo=typescript&logoColor=000000)
+![JavaScript](https://img.shields.io/badge/JavaScript-00ff41?style=flat-square&logo=javascript&logoColor=000000)
+![Python](https://img.shields.io/badge/Python-00ff41?style=flat-square&logo=python&logoColor=000000)
+![Java](https://img.shields.io/badge/Java-00ff41?style=flat-square&logo=openjdk&logoColor=000000)
+![Bash](https://img.shields.io/badge/Bash-00ff41?style=flat-square&logo=gnubash&logoColor=000000)
+
+</td>
+<td valign="top" width="33%">
+
+**`// Frontend`**
+
+![React](https://img.shields.io/badge/React-00ff41?style=flat-square&logo=react&logoColor=000000)
+![Next.js](https://img.shields.io/badge/Next.js-00ff41?style=flat-square&logo=nextdotjs&logoColor=000000)
+![Vite](https://img.shields.io/badge/Vite-00ff41?style=flat-square&logo=vite&logoColor=000000)
+![Tailwind](https://img.shields.io/badge/Tailwind-00ff41?style=flat-square&logo=tailwindcss&logoColor=000000)
+
+</td>
+<td valign="top" width="33%">
+
+**`// Backend`**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-00ff41?style=flat-square&logo=springboot&logoColor=000000)
+![Node.js](https://img.shields.io/badge/Node.js-00ff41?style=flat-square&logo=nodedotjs&logoColor=000000)
+![FastAPI](https://img.shields.io/badge/FastAPI-00ff41?style=flat-square&logo=fastapi&logoColor=000000)
+![Express](https://img.shields.io/badge/Express-00ff41?style=flat-square&logo=express&logoColor=000000)
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**`// AI / ML`**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-00ff41?style=flat-square&logo=pytorch&logoColor=000000)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-00ff41?style=flat-square&logo=scikitlearn&logoColor=000000)
+![Gemini](https://img.shields.io/badge/Gemini_AI-00ff41?style=flat-square&logo=google&logoColor=000000)
+![LangChain](https://img.shields.io/badge/LangChain-00ff41?style=flat-square&logo=langchain&logoColor=000000)
+
+</td>
+<td valign="top">
+
+**`// Databases`**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00ff41?style=flat-square&logo=postgresql&logoColor=000000)
+![MongoDB](https://img.shields.io/badge/MongoDB-00ff41?style=flat-square&logo=mongodb&logoColor=000000)
+![Redis](https://img.shields.io/badge/Redis-00ff41?style=flat-square&logo=redis&logoColor=000000)
+
+</td>
+<td valign="top">
+
+**`// DevOps`**
+
+![Docker](https://img.shields.io/badge/Docker-00ff41?style=flat-square&logo=docker&logoColor=000000)
+![Git](https://img.shields.io/badge/Git-00ff41?style=flat-square&logo=git&logoColor=000000)
+![Linux](https://img.shields.io/badge/Linux-00ff41?style=flat-square&logo=linux&logoColor=000000)
+
+</td>
+</tr>
+</table>
+
+---
+
+## `> cat ./projects.log`
+
+```
+$ grep -i "featured" projects.log | sort --by=impact
+```
+
+| `[PROJECT]` | `[DESCRIPTION]` | `[STACK]` |
 |---|---|---|
-| [**AI Resume Matcher**](https://github.com/adwait-bhavthankar/AI-Resume-Matcher) | Semantic resume-to-job matching using vector embeddings | Python, FastAPI, pgvector |
-| [**CodeSage AI**](https://github.com/adwait-bhavthankar/CodeSageAI) | Intelligent code review & analysis platform powered by Gemini | Java, Spring Boot, React, Gemini |
-| [**IntelliView**](https://github.com/adwait-bhavthankar/IntelliView) | AI-driven mock interview platform with real-time feedback | TypeScript, Next.js, OpenAI |
-| [**MERN Food Ordering App**](https://github.com/adwait-bhavthankar/mern-food-ordering-app-frontend) | Full-stack food delivery platform with auth & payments | MongoDB, Express, React, Node.js |
-| [**Formula 1 Prediction**](https://github.com/adwait-bhavthankar/Formula1-Predition) | ML model predicting F1 race outcomes with historical data | Python, scikit-learn, Jupyter |
+| **[AI-Resume-Matcher](https://github.com/adwait-bhavthankar/AI-Resume-Matcher)** | Semantic resume-to-job matching via vector embeddings | Python · FastAPI · pgvector |
+| **[CodeSage AI](https://github.com/adwait-bhavthankar/CodeSageAI)** | Intelligent code review platform powered by Gemini | Java · Spring Boot · React |
+| **[IntelliView](https://github.com/adwait-bhavthankar/IntelliView)** | AI mock interview platform with real-time feedback | TypeScript · Next.js · OpenAI |
+| **[MERN Food App](https://github.com/adwait-bhavthankar/mern-food-ordering-app-frontend)** | Full-stack food delivery with auth & payments | MongoDB · Express · React |
+| **[Formula1 Predictor](https://github.com/adwait-bhavthankar/Formula1-Predition)** | ML model predicting F1 race outcomes | Python · scikit-learn · Jupyter |
 
 ---
 
-## 📊 GitHub Stats
+## `> ping ./connect`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adwait-bhavthankar&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adwait-bhavthankar&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
-</p>
+```bash
+$ nmap -sV adwait-bhavthankar
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=adwait-bhavthankar&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 📫 Let's Connect
+  PORT     SERVICE   STATE
+  ──────────────────────────────────────────
+  github   GitHub    ──  github.com/adwait-bhavthankar
+  email    SMTP      ──  adwaitbhav4@gmail.com
+  ──────────────────────────────────────────
+  All ports OPEN. Connection accepted.
+```
 
 <p align="left">
   <a href="https://github.com/adwait-bhavthankar">
-    <img src="https://img.shields.io/badge/GitHub-adwait--bhavthankar-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-adwait--bhavthankar-00ff41?style=flat-square&logo=github&logoColor=000000" />
   </a>
   <a href="mailto:adwaitbhav4@gmail.com">
-    <img src="https://img.shields.io/badge/Email-adwaitbhav4%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-adwaitbhav4%40gmail.com-00ff41?style=flat-square&logo=gmail&logoColor=000000" />
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <sub>Profile card generated by <a href="https://gh.crafter.run">gh-ascii</a> · README crafted with ☕ and a keyboard</sub>
-</p>
+<div align="center">
+
+```
+  "You take the blue pill — the story ends.
+   You take the red pill — you see how deep the rabbit hole goes."
+                                              — Morpheus
+```
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,40:003b00,100:000000&height=120&section=footer)
+
+</div>
