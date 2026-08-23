@@ -1,8 +1,10 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f2937&height=200&section=header&text=Adwait%20Bhavthankar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Full-Stack%20%26%20AI%2FML%20Engineer&descSize=18&descColor=8b949e&descAlignY=76)
+# Adwait Bhavthankar
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full-Stack+%26+AI%2FML+Engineer;Building+scalable%2C+intelligent+systems;TypeScript+%7C+Python+%7C+Java+%7C+React;Spring+Boot+%7C+FastAPI+%7C+Gemini+AI;Always+shipping+things+that+matter.)](https://git.io/typing-svg)
+**`Full-Stack & AI/ML Engineer`**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full-Stack+%26+AI%2FML+Engineer;Building+scalable%2C+intelligent+systems;TypeScript+%7C+Python+%7C+Java+%7C+React;Spring+Boot+%7C+FastAPI+%7C+Gemini+AI;Always+shipping+things+that+matter.)](https://git.io/typing-svg)
 
 </div>
 
@@ -84,8 +86,8 @@ Software engineer focused on building end-to-end products — from polished fron
   </a>
 </p>
 
+---
+
 <div align="center">
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,50:161b22,100:0d1117&height=120&section=footer)
-
+  <sub>Built with ☕ · <a href="https://github.com/adwait-bhavthankar">github.com/adwait-bhavthankar</a></sub>
 </div>
