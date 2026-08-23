@@ -1,6 +1,6 @@
 <div align="center">
 
-# Adwait Bhavthankar
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=1&pause=50000&color=FFFFFF&center=true&vCenter=true&width=800&height=80&lines=Adwait+Bhavthankar" alt="Adwait Bhavthankar" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+%26+AI%2FML+Engineer;Building+scalable%2C+intelligent+systems;TypeScript+%7C+Python+%7C+Java+%7C+React;Spring+Boot+%7C+FastAPI+%7C+Gemini+AI;Always+shipping+things+that+matter." alt="Typing SVG" />
 
