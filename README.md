@@ -1,150 +1,91 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,60:003b00,100:00ff41&height=220&section=header&text=ADWAIT%20BHAVTHANKAR&fontSize=44&fontColor=00ff41&animation=fadeIn&fontAlignY=58&desc=root%40matrix%3A%20%24%20.%2Fengineer.sh%20--mode%3Dfull-stack%2Bai&descSize=15&descColor=39d353&descAlignY=78)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f2937&height=200&section=header&text=Adwait%20Bhavthankar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Full-Stack%20%26%20AI%2FML%20Engineer&descSize=18&descColor=8b949e&descAlignY=76)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=1200&color=00FF41&center=true&vCenter=true&width=680&lines=Wake+up%2C+Adwait...;The+Matrix+has+you.;Follow+the+white+rabbit.;Full-Stack+%26+AI%2FML+Engineer.;Building+systems+that+think.;Knock%2C+knock.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full-Stack+%26+AI%2FML+Engineer;Building+scalable%2C+intelligent+systems;TypeScript+%7C+Python+%7C+Java+%7C+React;Spring+Boot+%7C+FastAPI+%7C+Gemini+AI;Always+shipping+things+that+matter.)](https://git.io/typing-svg)
 
 </div>
 
-<br>
+---
 
-```bash
-$ cat /proc/adwait/identity
+## 👨‍💻 About Me
 
-  ╔══════════════════════════════════════════════════════════╗
-  ║  NAME     ──  Adwait Bhavthankar                        ║
-  ║  ROLE     ──  Full-Stack & AI/ML Engineer               ║
-  ║  LOCATION ──  India                                     ║
-  ║  STACK    ──  TypeScript · Python · Java · React · AI   ║
-  ║  MISSION  ──  Building intelligent systems from scratch ║
-  ║  STATUS   ──  [██████████████████░░]  Compiling...      ║
-  ╚══════════════════════════════════════════════════════════╝
-```
+Software engineer focused on building end-to-end products — from polished frontends to resilient backends, with AI/ML integrated where it genuinely adds value. I care about clean architecture, developer experience, and shipping things that actually work.
+
+- 🔭 Currently building **CodeSage AI** — intelligent code review powered by Gemini
+- 🧠 Deep-diving into **LLM agents**, **vector search**, and **RAG pipelines**
+- ⚡ Strong opinions on system design, clean APIs, and good abstractions
+- 📫 **adwaitbhav4@gmail.com**
 
 ---
 
-## `> ls ./tech-stack --all`
+## 🛠 Tech Stack
 
-```
-Loading modules...  [00ff41] ████████████████████ 100%
-```
+**Languages**
 
-<table>
-<tr>
-<td valign="top" width="33%">
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-**`// Languages`**
+**Frontend**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-00ff41?style=flat-square&logo=typescript&logoColor=000000)
-![JavaScript](https://img.shields.io/badge/JavaScript-00ff41?style=flat-square&logo=javascript&logoColor=000000)
-![Python](https://img.shields.io/badge/Python-00ff41?style=flat-square&logo=python&logoColor=000000)
-![Java](https://img.shields.io/badge/Java-00ff41?style=flat-square&logo=openjdk&logoColor=000000)
-![Bash](https://img.shields.io/badge/Bash-00ff41?style=flat-square&logo=gnubash&logoColor=000000)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-</td>
-<td valign="top" width="33%">
+**Backend & APIs**
 
-**`// Frontend`**
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 
-![React](https://img.shields.io/badge/React-00ff41?style=flat-square&logo=react&logoColor=000000)
-![Next.js](https://img.shields.io/badge/Next.js-00ff41?style=flat-square&logo=nextdotjs&logoColor=000000)
-![Vite](https://img.shields.io/badge/Vite-00ff41?style=flat-square&logo=vite&logoColor=000000)
-![Tailwind](https://img.shields.io/badge/Tailwind-00ff41?style=flat-square&logo=tailwindcss&logoColor=000000)
+**AI / ML**
 
-</td>
-<td valign="top" width="33%">
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
-**`// Backend`**
+**Databases & Infrastructure**
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-00ff41?style=flat-square&logo=springboot&logoColor=000000)
-![Node.js](https://img.shields.io/badge/Node.js-00ff41?style=flat-square&logo=nodedotjs&logoColor=000000)
-![FastAPI](https://img.shields.io/badge/FastAPI-00ff41?style=flat-square&logo=fastapi&logoColor=000000)
-![Express](https://img.shields.io/badge/Express-00ff41?style=flat-square&logo=express&logoColor=000000)
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-**`// AI / ML`**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-00ff41?style=flat-square&logo=pytorch&logoColor=000000)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-00ff41?style=flat-square&logo=scikitlearn&logoColor=000000)
-![Gemini](https://img.shields.io/badge/Gemini_AI-00ff41?style=flat-square&logo=google&logoColor=000000)
-![LangChain](https://img.shields.io/badge/LangChain-00ff41?style=flat-square&logo=langchain&logoColor=000000)
-
-</td>
-<td valign="top">
-
-**`// Databases`**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00ff41?style=flat-square&logo=postgresql&logoColor=000000)
-![MongoDB](https://img.shields.io/badge/MongoDB-00ff41?style=flat-square&logo=mongodb&logoColor=000000)
-![Redis](https://img.shields.io/badge/Redis-00ff41?style=flat-square&logo=redis&logoColor=000000)
-
-</td>
-<td valign="top">
-
-**`// DevOps`**
-
-![Docker](https://img.shields.io/badge/Docker-00ff41?style=flat-square&logo=docker&logoColor=000000)
-![Git](https://img.shields.io/badge/Git-00ff41?style=flat-square&logo=git&logoColor=000000)
-![Linux](https://img.shields.io/badge/Linux-00ff41?style=flat-square&logo=linux&logoColor=000000)
-
-</td>
-</tr>
-</table>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## `> cat ./projects.log`
+## 🚀 Projects
 
-```
-$ grep -i "featured" projects.log | sort --by=impact
-```
-
-| `[PROJECT]` | `[DESCRIPTION]` | `[STACK]` |
+| Project | Description | Stack |
 |---|---|---|
-| **[AI-Resume-Matcher](https://github.com/adwait-bhavthankar/AI-Resume-Matcher)** | Semantic resume-to-job matching via vector embeddings | Python · FastAPI · pgvector |
-| **[CodeSage AI](https://github.com/adwait-bhavthankar/CodeSageAI)** | Intelligent code review platform powered by Gemini | Java · Spring Boot · React |
-| **[IntelliView](https://github.com/adwait-bhavthankar/IntelliView)** | AI mock interview platform with real-time feedback | TypeScript · Next.js · OpenAI |
-| **[MERN Food App](https://github.com/adwait-bhavthankar/mern-food-ordering-app-frontend)** | Full-stack food delivery with auth & payments | MongoDB · Express · React |
-| **[Formula1 Predictor](https://github.com/adwait-bhavthankar/Formula1-Predition)** | ML model predicting F1 race outcomes | Python · scikit-learn · Jupyter |
+| [**AI Resume Matcher**](https://github.com/adwait-bhavthankar/AI-Resume-Matcher) | Semantic resume-to-job matching using vector embeddings | Python · FastAPI · pgvector |
+| [**CodeSage AI**](https://github.com/adwait-bhavthankar/CodeSageAI) | Intelligent code review & analysis platform powered by Gemini | Java · Spring Boot · React |
+| [**IntelliView**](https://github.com/adwait-bhavthankar/IntelliView) | AI-driven mock interview platform with real-time feedback | TypeScript · Next.js · OpenAI |
+| [**MERN Food Ordering App**](https://github.com/adwait-bhavthankar/mern-food-ordering-app-frontend) | Full-stack food delivery platform with auth & payments | MongoDB · Express · React |
+| [**Formula 1 Predictor**](https://github.com/adwait-bhavthankar/Formula1-Predition) | ML model predicting F1 race outcomes from historical data | Python · scikit-learn · Jupyter |
 
 ---
 
-## `> ping ./connect`
+## 📫 Connect
 
-```bash
-$ nmap -sV adwait-bhavthankar
-
-  PORT     SERVICE   STATE
-  ──────────────────────────────────────────
-  github   GitHub    ──  github.com/adwait-bhavthankar
-  email    SMTP      ──  adwaitbhav4@gmail.com
-  ──────────────────────────────────────────
-  All ports OPEN. Connection accepted.
-```
-
-<p align="left">
+<p>
   <a href="https://github.com/adwait-bhavthankar">
-    <img src="https://img.shields.io/badge/GitHub-adwait--bhavthankar-00ff41?style=flat-square&logo=github&logoColor=000000" />
+    <img src="https://img.shields.io/badge/GitHub-adwait--bhavthankar-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
+  &nbsp;
   <a href="mailto:adwaitbhav4@gmail.com">
-    <img src="https://img.shields.io/badge/Email-adwaitbhav4%40gmail.com-00ff41?style=flat-square&logo=gmail&logoColor=000000" />
+    <img src="https://img.shields.io/badge/Email-adwaitbhav4%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
----
-
 <div align="center">
 
-```
-  "You take the blue pill — the story ends.
-   You take the red pill — you see how deep the rabbit hole goes."
-                                              — Morpheus
-```
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,40:003b00,100:000000&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,50:161b22,100:0d1117&height=120&section=footer)
 
 </div>
