@@ -1,10 +1,8 @@
 <div align="center">
 
-# Adwait Bhavthankar
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=1&pause=50000&color=FFFFFF&center=true&vCenter=true&width=800&height=80&lines=Adwait+Bhavthankar" alt="Adwait Bhavthankar" />
 
-**`Full-Stack & AI/ML Engineer`**
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full-Stack+%26+AI%2FML+Engineer;Building+scalable%2C+intelligent+systems;TypeScript+%7C+Python+%7C+Java+%7C+React;Spring+Boot+%7C+FastAPI+%7C+Gemini+AI;Always+shipping+things+that+matter.)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+%26+AI%2FML+Engineer;Building+scalable%2C+intelligent+systems;TypeScript+%7C+Python+%7C+Java+%7C+React;Spring+Boot+%7C+FastAPI+%7C+Gemini+AI;Always+shipping+things+that+matter." alt="Typing SVG" />
 
 </div>
 
@@ -81,8 +79,16 @@ Software engineer focused on building end-to-end products — from polished fron
     <img src="https://img.shields.io/badge/GitHub-adwait--bhavthankar-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
   &nbsp;
+  <a href="https://www.linkedin.com/in/adwait-bhavthankar-4b4aa9257/">
+    <img src="https://img.shields.io/badge/LinkedIn-adwait--bhavthankar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
   <a href="mailto:adwaitbhav4@gmail.com">
     <img src="https://img.shields.io/badge/Email-adwaitbhav4%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://wa.me/918767244492">
+    <img src="https://img.shields.io/badge/WhatsApp-%2B91%208767244492-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
