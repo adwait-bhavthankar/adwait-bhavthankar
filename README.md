@@ -1,10 +1,8 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://gh.crafter.run/adwait-bhavthankar?theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://gh.crafter.run/adwait-bhavthankar?theme=light" />
-    <img alt="adwait-bhavthankar's GitHub profile card" src="https://gh.crafter.run/adwait-bhavthankar?theme=dark" width="85%" />
-  </picture>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://gh.crafter.run/adwait-bhavthankar?theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://gh.crafter.run/adwait-bhavthankar?theme=light" />
+  <img alt="adwait-bhavthankar's GitHub profile card" src="https://gh.crafter.run/adwait-bhavthankar?theme=dark" width="100%" />
+</picture>
 
 <br/>
 
@@ -67,12 +65,12 @@ I'm a software engineer passionate about creating end-to-end solutions — from 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adwait-bhavthankar&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adwait-bhavthankar&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adwait-bhavthankar&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adwait-bhavthankar&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=adwait-bhavthankar&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
